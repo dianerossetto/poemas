@@ -10,5 +10,8 @@ Yesterday it worked
 Tomorrow it is not working
 Software is like that.
 OI!!!
+<<<<<<< HEAD
 
 Gostei dessa parte
+
+TCHAU!!!
